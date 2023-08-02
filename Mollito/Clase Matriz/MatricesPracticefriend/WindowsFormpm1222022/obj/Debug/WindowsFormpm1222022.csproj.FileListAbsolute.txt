@@ -1,0 +1,39 @@
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER\WindowsFormpm1222022\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.exe.config
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER\WindowsFormpm1222022\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.exe
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER\WindowsFormpm1222022\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.pdb
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.csprojResolveAssemblyReference.cache
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.Properties.Resources.resources
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.csproj.GenerateResource.Cache
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.exe
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.pdb
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.Form1.resources
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER - copia\WindowsFormpm1222022\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.exe.config
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER - copia\WindowsFormpm1222022\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.exe
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER - copia\WindowsFormpm1222022\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.pdb
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER - copia\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.csprojResolveAssemblyReference.cache
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER - copia\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.Form1.resources
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER - copia\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.Properties.Resources.resources
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER - copia\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.csproj.GenerateResource.Cache
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER - copia\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.exe
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\VENDER - copia\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.pdb
+E:\Programacion1\Clase Matriz\WindowsFormpm1222022\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.exe.config
+E:\Programacion1\Clase Matriz\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.exe
+E:\Programacion1\Clase Matriz\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.pdb
+E:\Programacion1\Clase Matriz\WindowsFormpm1222022\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.exe
+E:\Programacion1\Clase Matriz\WindowsFormpm1222022\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.pdb
+E:\Programacion1\Clase Matriz\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.csprojResolveAssemblyReference.cache
+E:\Programacion1\Clase Matriz\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.Form1.resources
+E:\Programacion1\Clase Matriz\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.Properties.Resources.resources
+E:\Programacion1\Clase Matriz\WindowsFormpm1222022\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.csproj.GenerateResource.Cache
+E:\Programacion1\Clase Matriz\MatricesPracticefriend\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.exe.config
+E:\Programacion1\Clase Matriz\MatricesPracticefriend\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.exe
+E:\Programacion1\Clase Matriz\MatricesPracticefriend\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.pdb
+E:\Programacion1\Clase Matriz\MatricesPracticefriend\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.exe
+E:\Programacion1\Clase Matriz\MatricesPracticefriend\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.pdb
+E:\Programacion1\Clase Matriz\MatricesPracticefriend\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.csprojResolveAssemblyReference.cache
+E:\Programacion1\Clase Matriz\MatricesPracticefriend\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.Form1.resources
+E:\Programacion1\Clase Matriz\MatricesPracticefriend\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.Properties.Resources.resources
+E:\Programacion1\Clase Matriz\MatricesPracticefriend\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.csproj.GenerateResource.Cache
+D:\Programacion1\Clase Matriz\MatricesPracticefriend\WindowsFormpm1222022\bin\Debug\WindowsFormpm1222022.exe.config
+D:\Programacion1\Clase Matriz\MatricesPracticefriend\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.exe
+D:\Programacion1\Clase Matriz\MatricesPracticefriend\WindowsFormpm1222022\obj\Debug\WindowsFormpm1222022.pdb

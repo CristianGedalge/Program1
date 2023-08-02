@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/21 08:52:23.000.917,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/21 09:11:46.000.994,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/21 13:12:05.000.944,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/21 13:14:39.000.450,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/21 13:20:28.000.351,C:\Users\Usuario\Documents\DELPHI P1\Programacion 1\Programacion 1\UCNumero.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/21 13:21:10.000.047,C:\Users\Usuario\Documents\DELPHI P1\Programacion 1\Programacion 1\UFPrincipal.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/21 13:21:10.000.047,C:\Users\Usuario\Documents\DELPHI P1\Programacion 1\Programacion 1\UFPrincipal.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/21 13:21:24.000.297,C:\Users\Usuario\Documents\DELPHI P1\Programacion 1\Programacion 1\Numero.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UCNumero.pas"/>
+    <File Path="UFPrincipal.pas"/>
+    <File Path="UFPrincipal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

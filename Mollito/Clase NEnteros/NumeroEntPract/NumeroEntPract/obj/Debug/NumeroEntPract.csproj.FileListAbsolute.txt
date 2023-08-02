@@ -1,0 +1,15 @@
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumeroEntPract\NumeroEntPract\bin\Debug\NumeroEntPract.exe.config
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumeroEntPract\NumeroEntPract\obj\Debug\NumeroEntPract.csprojResolveAssemblyReference.cache
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumeroEntPract\NumeroEntPract\obj\Debug\NumeroEntPract.Form1.resources
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumeroEntPract\NumeroEntPract\obj\Debug\NumeroEntPract.Properties.Resources.resources
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumeroEntPract\NumeroEntPract\obj\Debug\NumeroEntPract.csproj.GenerateResource.Cache
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumeroEntPract\NumeroEntPract\bin\Debug\NumeroEntPract.exe
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumeroEntPract\NumeroEntPract\bin\Debug\NumeroEntPract.pdb
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumeroEntPract\NumeroEntPract\obj\Debug\NumeroEntPract.exe
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumeroEntPract\NumeroEntPract\obj\Debug\NumeroEntPract.pdb
+E:\Programacion1\Clase NEnteros\NumeroEntPract\NumeroEntPract\bin\Debug\NumeroEntPract.exe.config
+E:\Programacion1\Clase NEnteros\NumeroEntPract\NumeroEntPract\obj\Debug\NumeroEntPract.exe
+E:\Programacion1\Clase NEnteros\NumeroEntPract\NumeroEntPract\obj\Debug\NumeroEntPract.pdb
+D:\Programacion1\Clase NEnteros\NumeroEntPract\NumeroEntPract\bin\Debug\NumeroEntPract.exe.config
+D:\Programacion1\Clase NEnteros\NumeroEntPract\NumeroEntPract\obj\Debug\NumeroEntPract.exe
+D:\Programacion1\Clase NEnteros\NumeroEntPract\NumeroEntPract\obj\Debug\NumeroEntPract.pdb

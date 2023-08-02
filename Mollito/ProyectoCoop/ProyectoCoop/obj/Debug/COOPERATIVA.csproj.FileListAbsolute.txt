@@ -1,0 +1,27 @@
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\bin\Debug\COOPERATIVA.exe.config
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\bin\Debug\COOPERATIVA.exe
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\bin\Debug\COOPERATIVA.pdb
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.csprojResolveAssemblyReference.cache
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.Form1.resources
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.Properties.Resources.resources
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.csproj.GenerateResource.Cache
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.exe
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.pdb
+D:\Programacion1 2022-2\CoopPollito\COOPERATIVA\COOPERATIVA\bin\Debug\COOPERATIVA.exe.config
+D:\Programacion1 2022-2\CoopPollito\COOPERATIVA\COOPERATIVA\bin\Debug\COOPERATIVA.exe
+D:\Programacion1 2022-2\CoopPollito\COOPERATIVA\COOPERATIVA\bin\Debug\COOPERATIVA.pdb
+D:\Programacion1 2022-2\CoopPollito\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.Form1.resources
+D:\Programacion1 2022-2\CoopPollito\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.Properties.Resources.resources
+D:\Programacion1 2022-2\CoopPollito\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.csproj.GenerateResource.Cache
+D:\Programacion1 2022-2\CoopPollito\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.exe
+D:\Programacion1 2022-2\CoopPollito\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.pdb
+D:\Programacion1 2022-2\CoopPollito\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.csprojResolveAssemblyReference.cache
+D:\Programacion1 2022-2\CoopPollito\Cooperativa - copia (3)\Cooperativa\bin\Debug\Cooperativa.exe.config
+D:\Programacion1 2022-2\CoopPollito\Cooperativa - copia (3)\Cooperativa\bin\Debug\Cooperativa.exe
+D:\Programacion1 2022-2\CoopPollito\Cooperativa - copia (3)\Cooperativa\bin\Debug\Cooperativa.pdb
+D:\Programacion1 2022-2\CoopPollito\Cooperativa - copia (3)\Cooperativa\obj\Debug\Cooperativa.csprojResolveAssemblyReference.cache
+D:\Programacion1 2022-2\CoopPollito\Cooperativa - copia (3)\Cooperativa\obj\Debug\Cooperativa.Form1.resources
+D:\Programacion1 2022-2\CoopPollito\Cooperativa - copia (3)\Cooperativa\obj\Debug\Cooperativa.Properties.Resources.resources
+D:\Programacion1 2022-2\CoopPollito\Cooperativa - copia (3)\Cooperativa\obj\Debug\Cooperativa.csproj.GenerateResource.Cache
+D:\Programacion1 2022-2\CoopPollito\Cooperativa - copia (3)\Cooperativa\obj\Debug\Cooperativa.exe
+D:\Programacion1 2022-2\CoopPollito\Cooperativa - copia (3)\Cooperativa\obj\Debug\Cooperativa.pdb

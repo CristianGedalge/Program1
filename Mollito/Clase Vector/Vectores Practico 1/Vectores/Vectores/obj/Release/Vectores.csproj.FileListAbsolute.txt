@@ -1,0 +1,8 @@
+E:\[]c#\Vectores\Vectores\bin\Release\Vectores.exe.config
+E:\[]c#\Vectores\Vectores\bin\Release\Vectores.exe
+E:\[]c#\Vectores\Vectores\bin\Release\Vectores.pdb
+E:\[]c#\Vectores\Vectores\obj\Release\Vectores.Form1.resources
+E:\[]c#\Vectores\Vectores\obj\Release\Vectores.Properties.Resources.resources
+E:\[]c#\Vectores\Vectores\obj\Release\Vectores.csproj.GenerateResource.Cache
+E:\[]c#\Vectores\Vectores\obj\Release\Vectores.exe
+E:\[]c#\Vectores\Vectores\obj\Release\Vectores.pdb

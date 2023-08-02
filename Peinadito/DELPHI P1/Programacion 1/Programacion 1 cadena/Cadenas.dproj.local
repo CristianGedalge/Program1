@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/17 08:49:27.000.525,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 08:50:11.000.866,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/17 08:51:36.000.585,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Usuario\Documents\DELPHI P1\Programacion 1\Programacion 1 cadena\UCCadena.pas</Transaction>
+    <Transaction>2022/05/17 08:51:54.000.344,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Usuario\Documents\DELPHI P1\Programacion 1\Programacion 1 cadena\UPFormulario.dfm</Transaction>
+    <Transaction>2022/05/17 08:51:54.000.344,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Usuario\Documents\DELPHI P1\Programacion 1\Programacion 1 cadena\UPFormulario.pas</Transaction>
+    <Transaction>2022/05/17 08:52:06.000.894,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Usuario\Documents\DELPHI P1\Programacion 1\Programacion 1 cadena\Cadenas.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

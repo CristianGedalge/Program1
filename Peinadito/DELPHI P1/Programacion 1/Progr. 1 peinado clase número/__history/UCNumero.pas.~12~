@@ -1,0 +1,163 @@
+unit UCNumero;
+
+interface
+uses Math,sysutils;
+
+Type
+    NumeroNatural=Class
+      Private
+            Valor : Cardinal;
+      Public
+            Procedure setValor( v: Cardinal);
+            Function getValor:Cardinal;
+            Procedure deleteDigit(p:byte);
+            Procedure findReplace(d,r:Byte);
+            Function sumDigitos:Byte;
+            Function toBin:String;
+            Function toHex:String;
+            Function toOct:String;
+            Function toRom:String;
+
+    End;
+
+implementation
+
+{ NumeroNatural }
+
+procedure NumeroNatural.deleteDigit(p: Byte);
+Var
+    t,p1,p2:Cardinal;
+begin
+     t:=Trunc(power(10,p-1));
+     p1:=Valor div t;
+     p2:=Valor mod t;
+     p1:= p1 div 10;
+     Valor:=p1*t+p2;
+end;
+
+procedure NumeroNatural.findReplace(d, r: Byte);
+begin
+
+end;
+
+function NumeroNatural.getValor: Cardinal;
+begin
+     Result:=Valor;
+end;
+
+procedure NumeroNatural.setValor(v: Cardinal);
+begin
+     Valor:=v;
+end;
+
+function NumeroNatural.sumDigitos: Byte;
+Var
+    n  : Cardinal;
+    d,s: Byte;
+
+begin
+      n:=Valor; s:=0;
+      while n>0 do
+      begin
+         d:=n mod 10;
+         s:=s+d;
+         n:=n div 10;
+      end;
+      Result:=s;
+end;
+
+function NumeroNatural.toBin: String;
+Const
+    Dig='01';
+var
+   d: Byte;
+   r: String;
+   n: Cardinal;
+begin
+      n:=Valor;
+      r:='';
+      while n>0 do
+      Begin
+          d:= n mod 2;
+          r:=Dig[d+1]+r;
+          n:= n div 2;
+      End;
+      Result:=r;
+end;
+
+function NumeroNatural.toHex: String;
+Const
+    Dig='0123456789ABCDEF';
+
+var
+   d: Byte;
+   r: String;
+   n: Cardinal;
+begin
+      n:=Valor;
+      r:='';
+      while n>0 do
+      Begin
+          d:= n mod 16;
+          r:=Dig[d+1]+r;
+          n:= n div 16;
+      End;
+      Result:=r;
+
+end;
+
+function NumeroNatural.toOct: String;
+Const
+    Dig='01234567';
+var
+   d: Byte;
+   r: String;
+   n: Cardinal;
+begin
+      n:=Valor;
+      r:='';
+      while n>0 do
+      Begin
+          d:= n mod 8;
+          r:=Dig[d+1]+r;
+          n:= n div 8;
+      End;
+      Result:=r;
+
+end;
+
+function NumeroNatural.toRom: String;
+Const
+    DigR:Array[1..4,1..9] of String=(('I','II','III','IV','V','VI','VII','VIII','IX'),
+                                      ('X','XX','XXX','XL','L','LX','LXX','LXXX','XC'),
+                                      ('C','CC','CCC','CD','D','DC','DCC','DCCC','CM'),
+                                      ('M','MM','MMM','','','','','',''));
+var
+   d,f: Byte;
+   r: String;
+   n: Cardinal;
+begin
+      n:=Valor;
+      r:='';f:=1;
+      if n>0 then begin
+
+        while n>0 do begin
+          d:= n mod 10;
+          if (d>0)  then begin
+             r:=DigR[f,d]+r;
+             n:= n div 10;
+             f:=f+1;
+
+          end else begin
+             f:=f+1;
+
+          end;
+
+        End;
+      end
+      else raise Exception.Create('Cero no tiene numero romano');
+      Result:=r;
+
+end;
+
+end.

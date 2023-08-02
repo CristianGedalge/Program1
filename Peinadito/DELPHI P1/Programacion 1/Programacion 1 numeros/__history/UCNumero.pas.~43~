@@ -1,0 +1,252 @@
+unit UCNumero;
+
+interface
+uses math,sysutils;
+
+Type
+    NumeroNatural = Class      //clase
+      private
+          Valor:cardinal;             // atributo
+
+
+      public                                     // método
+          Procedure setValor(v:cardinal);
+          Function getValor:cardinal;
+          Procedure deleteDigit(p:byte);
+          Procedure findReplace(d,r:byte);
+          function sumDigitos:byte;
+          function toBin:string;
+          function toHexa:string;
+          function toOctal:string;
+          function toRoman:string;
+          function ElimPrimos:cardinal;
+          function ToDecena(copy:cardinal):string;
+          function ToCentena(copy: cardinal):string;
+          function NumToLiteral:string;
+
+
+
+    End;
+
+implementation
+
+{ NumeroNatural }
+
+procedure NumeroNatural.deleteDigit(p: byte);
+var t,p1,p2:cardinal;
+
+begin
+     t := trunc(power(10,p-1)); //power es una instruccion para representar una potencia 10^p
+     p1 := valor div t;
+     p2 := valor mod t;
+     p1 := p1 div 10;
+     valor := p1 * t + p2;
+
+end;
+
+function NumeroNatural.ElimPrimos: cardinal;
+var r,m:byte;
+    n,re:cardinal;
+begin
+  n:=valor;
+  re:=0;
+  m:=1;
+  while n>0 do
+  begin
+    r:=n mod 10;
+    n:= n div 10;
+    if r in [2,3,5,7] then
+    begin
+       r:=0;
+    end else begin
+      re:=re+r*m;
+      m:=10;
+    end;
+
+  end;
+  result:=re;
+end;
+
+procedure NumeroNatural.findReplace(d, r: byte);
+begin
+
+end;
+
+function NumeroNatural.getValor: cardinal;
+begin
+    result := valor;
+
+
+end;
+
+function NumeroNatural.NumToLiteral: string;
+const
+  dig:array[0..4] of string = ('','mil','millones','billones','trillones');
+var copy,r:cardinal;
+    res:string;
+    f:byte;
+
+begin
+copy:=valor;
+f:=0;
+res:='';
+if copy=0 then begin
+  res:='cero'
+end else begin
+
+  while (copy>0) do begin
+    r:= copy mod 1000;
+    copy:= copy div 1000;
+    res:= ToCentena(r)+' '+dig[f]+' '+res;
+    f:=f+1;
+  end;
+end;
+ result:=res;
+
+
+end;
+
+procedure NumeroNatural.setValor(v: cardinal);
+begin
+    valor := v;
+
+end;
+
+function NumeroNatural.sumDigitos: byte;
+var n:cardinal;
+    d:byte;
+    s:byte;
+begin
+n := Valor;
+s := 0;
+while n > 0 do begin
+    d := n mod 10;
+    s := s + d;
+    n := n div 10;
+end;
+  result := s;
+end;
+
+function NumeroNatural.toBin: string;
+const
+  dig ='01';                //posicion  empieza en 1 y 2
+  var re:string;
+      r:byte;
+      n:cardinal;
+
+begin
+  n:= valor;
+  re:='';
+  while n>0 do
+  begin
+    r:= n mod 2;
+    re:= dig[r+1]+re;
+    n:= n div  2;
+  end;
+result:=re;
+end;
+
+
+function NumeroNatural.ToCentena(copy: cardinal): string;
+const
+  centena:array[1..9] of string = ('ciento','doscientos','trescientos','cuatrocientos','quinientos','seiscientos','setescientos','ochocientos','noveceintos');
+begin
+ result:=centena[copy div 100]+''+ToDecena(copy mod 100);
+end;
+
+function NumeroNatural.ToDecena(copy: cardinal): string;
+const
+  decena:array[1..9] of string = ('diez','veinte','treinta','cuarenta','cincuenta','sesenta','setenta','ochenta','noventa');
+  unidad:array[0..15] of string = ('','uno','dos','tres','cuatro','cinco','seis','siete','ocho','nueve','diez','once','doce','trece','catorce','quince');
+
+begin
+  if (copy<16)then begin
+    result:= unidad[copy];
+  end else begin
+    if (copy mod 10)=0 then begin
+    result:= decena[copy div 10];
+
+    end else begin
+
+    result:= decena[copy div 10]+' y '+ unidad[copy mod 10];
+    end;
+
+  end;
+
+end;
+
+function NumeroNatural.toHexa: string;
+const
+  dig = '0123456789ABCDEF';
+  var r:byte;
+      n:cardinal;
+      resp:string;
+begin
+  n:=valor ;
+  resp:='';
+  while n>0 do
+  begin
+    r:= n mod 16;
+    n:= n div 16;
+    resp:=dig[r+1]+resp;
+  end;
+result:=resp;
+end;
+
+function NumeroNatural.toOctal: string;
+const
+  dig='01234567';
+var n:cardinal;
+    res:string;
+    r:byte;
+begin
+ n:= valor;
+ res:='';
+
+ while n>0 do
+ begin
+   r:= n mod 8;
+   n:= n div 8;
+   res:= dig[r+1]+res;
+
+ end;
+   result:=res;
+end;
+
+function NumeroNatural.toRoman: string;
+const
+  dig:array [1..4,1..9] of string =(('I','II','III','IV','V','VI','VII','VIII','IX'),
+                                      ('X','XX','XXX','XL','L','LX','LXX','LXXX','XC'),
+                                      ('C','CC','CCC','CD','D','DC','DCC','DCCC','CM'),
+                                       ('M','MM','MMM','','','','','',''));
+  var res:string;
+      copy:cardinal;
+      f,r:byte;
+
+begin
+  copy:= valor;
+  res:='';
+  f:=1;
+  if (copy>0) then begin
+    while (copy>0) do begin
+      r:= copy mod 10;
+      if (r>0) then begin
+       res:=dig[f,r]+res;
+       f:=f+1;
+      end else begin
+       f:=f+1;
+
+      end;
+      copy:=copy div 10;
+    end;
+
+  end else raise Exception.Create('cero no tiene romano');
+
+  result:=res;
+
+
+
+
+end;
+
+end.

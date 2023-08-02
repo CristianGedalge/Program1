@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/21 08:52:23.000.917,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/21 09:11:46.000.994,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/23 05:42:55.000.262,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/23 05:43:06.000.124,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/23 05:45:23.000.383,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Usuario\Documents\DELPHI P1\Programacion 1\auxiliatura\UFPrincipal.dfm</Transaction>
+    <Transaction>2022/04/23 05:45:23.000.383,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Usuario\Documents\DELPHI P1\Programacion 1\auxiliatura\UFPrincipal.pas</Transaction>
+    <Transaction>2022/04/23 05:46:36.000.841,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Usuario\Documents\DELPHI P1\Programacion 1\auxiliatura\UCNatural.pas</Transaction>
+    <Transaction>2022/04/23 05:46:59.000.267,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Usuario\Documents\DELPHI P1\Programacion 1\auxiliatura\Numeros.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

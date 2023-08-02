@@ -1,0 +1,15 @@
+unit UCNatural;
+
+interface
+type
+    NATURAL = class
+      private
+          valor:cardinal;
+
+      public
+
+end;
+
+implementation
+
+end.

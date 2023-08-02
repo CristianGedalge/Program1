@@ -1,0 +1,107 @@
+unit UFPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus,UCCadena, Vcl.StdCtrls;
+
+type
+  TfrmPrincipal = class(TForm)
+    MainMenu1: TMainMenu;
+    Metodos1: TMenuItem;
+    Metodos2: TMenuItem;
+    Adicionarcaracter1: TMenuItem;
+    Adicionarcaracter2: TMenuItem;
+    InsertarCaracter1: TMenuItem;
+    InsertarCaracter2: TMenuItem;
+    ContarPalabras1: TMenuItem;
+    ObtenerCadena1: TMenuItem;
+    ObtenerCadena2: TMenuItem;
+    Label1: TLabel;
+    Edit1: TEdit;
+    Edit2: TEdit;
+    PalabraMayorLongitud1: TMenuItem;
+    Palabrasqueterminanenvocal1: TMenuItem;
+    procedure FormCreate(Sender: TObject);
+    procedure Metodos2Click(Sender: TObject);
+    procedure Adicionarcaracter1Click(Sender: TObject);
+    procedure Adicionarcaracter2Click(Sender: TObject);
+    procedure InsertarCaracter1Click(Sender: TObject);
+    procedure InsertarCaracter2Click(Sender: TObject);
+    procedure ContarPalabras1Click(Sender: TObject);
+    procedure ObtenerCadena1Click(Sender: TObject);
+    procedure ObtenerCadena2Click(Sender: TObject);
+    procedure PalabraMayorLongitud1Click(Sender: TObject);
+    procedure Palabrasqueterminanenvocal1Click(Sender: TObject);
+  private
+    { Private declarations }
+    C : Cadena;
+  public
+    { Public declarations }
+  end;
+
+var
+  frmPrincipal: TfrmPrincipal;
+
+implementation
+
+{$R *.dfm}
+
+procedure TfrmPrincipal.Adicionarcaracter1Click(Sender: TObject);
+begin
+     C.AddChar(Edit1.Text[1])
+end;
+
+procedure TfrmPrincipal.Adicionarcaracter2Click(Sender: TObject);
+begin
+     C.ModChar(StrToInt(Edit2.Text),Edit1.Text[1])
+end;
+
+procedure TfrmPrincipal.ContarPalabras1Click(Sender: TObject);
+begin
+     Label1.Caption:='La cantidad es:'+IntToStr(C.CountWord);
+end;
+
+procedure TfrmPrincipal.FormCreate(Sender: TObject);
+begin
+     C := Cadena.Create;
+end;
+
+procedure TfrmPrincipal.InsertarCaracter1Click(Sender: TObject);
+begin
+     C.InsChar(StrToInt(Edit2.Text),Edit1.Text[1])
+end;
+
+procedure TfrmPrincipal.InsertarCaracter2Click(Sender: TObject);
+begin
+     C.DelChar(StrToInt(Edit2.Text[1]));
+end;
+
+procedure TfrmPrincipal.Metodos2Click(Sender: TObject);
+begin
+     Label1.Caption:='La longitud es:'+IntToStr(C.Long);
+end;
+
+procedure TfrmPrincipal.ObtenerCadena1Click(Sender: TObject);
+begin
+     Label1.Caption:=C.getStr;
+     C.CountWord
+end;
+
+procedure TfrmPrincipal.ObtenerCadena2Click(Sender: TObject);
+begin
+     C.setStr(Edit1.Text);
+end;
+
+procedure TfrmPrincipal.PalabraMayorLongitud1Click(Sender: TObject);
+begin
+      Label1.Caption:=C.PalMayLong;
+end;
+
+procedure TfrmPrincipal.Palabrasqueterminanenvocal1Click(Sender: TObject);
+begin
+     Label1.Caption:=IntToStr(C.ContPalTerVocal);
+end;
+
+end.

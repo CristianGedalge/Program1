@@ -1,0 +1,12 @@
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivos_Rdmc\Proyect_Archiv_Rdmcs\Proyect_Archiv_Rdmcs\bin\Debug\Proyect_Archiv_Rdmcs.exe.config
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivos_Rdmc\Proyect_Archiv_Rdmcs\Proyect_Archiv_Rdmcs\bin\Debug\Proyect_Archiv_Rdmcs.exe
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivos_Rdmc\Proyect_Archiv_Rdmcs\Proyect_Archiv_Rdmcs\bin\Debug\Proyect_Archiv_Rdmcs.pdb
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivos_Rdmc\Proyect_Archiv_Rdmcs\Proyect_Archiv_Rdmcs\obj\Debug\Proyect_Archiv_Rdmcs.csprojResolveAssemblyReference.cache
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivos_Rdmc\Proyect_Archiv_Rdmcs\Proyect_Archiv_Rdmcs\obj\Debug\Proyect_Archiv_Rdmcs.Form1.resources
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivos_Rdmc\Proyect_Archiv_Rdmcs\Proyect_Archiv_Rdmcs\obj\Debug\Proyect_Archiv_Rdmcs.Properties.Resources.resources
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivos_Rdmc\Proyect_Archiv_Rdmcs\Proyect_Archiv_Rdmcs\obj\Debug\Proyect_Archiv_Rdmcs.csproj.GenerateResource.Cache
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivos_Rdmc\Proyect_Archiv_Rdmcs\Proyect_Archiv_Rdmcs\obj\Debug\Proyect_Archiv_Rdmcs.exe
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivos_Rdmc\Proyect_Archiv_Rdmcs\Proyect_Archiv_Rdmcs\obj\Debug\Proyect_Archiv_Rdmcs.pdb
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivos_Rdmc(A)\Proyect_Archiv_Rdmcs\Proyect_Archiv_Rdmcs\bin\Debug\Proyect_Archiv_Rdmcs.exe.config
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivos_Rdmc(A)\Proyect_Archiv_Rdmcs\Proyect_Archiv_Rdmcs\obj\Debug\Proyect_Archiv_Rdmcs.exe
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivos_Rdmc(A)\Proyect_Archiv_Rdmcs\Proyect_Archiv_Rdmcs\obj\Debug\Proyect_Archiv_Rdmcs.pdb

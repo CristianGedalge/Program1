@@ -1,0 +1,9 @@
+E:\Repechaje\Repechaje\bin\Debug\Repechaje.exe.config
+E:\Repechaje\Repechaje\bin\Debug\Repechaje.exe
+E:\Repechaje\Repechaje\bin\Debug\Repechaje.pdb
+E:\Repechaje\Repechaje\obj\Debug\Repechaje.csprojResolveAssemblyReference.cache
+E:\Repechaje\Repechaje\obj\Debug\Repechaje.Form1.resources
+E:\Repechaje\Repechaje\obj\Debug\Repechaje.Properties.Resources.resources
+E:\Repechaje\Repechaje\obj\Debug\Repechaje.csproj.GenerateResource.Cache
+E:\Repechaje\Repechaje\obj\Debug\Repechaje.exe
+E:\Repechaje\Repechaje\obj\Debug\Repechaje.pdb

@@ -1,0 +1,27 @@
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumerosEnt\NumerosEnt\bin\Debug\NumerosEnt.exe.config
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumerosEnt\NumerosEnt\bin\Debug\NumerosEnt.exe
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumerosEnt\NumerosEnt\bin\Debug\NumerosEnt.pdb
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.csprojResolveAssemblyReference.cache
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.Form1.resources
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.Properties.Resources.resources
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.csproj.GenerateResource.Cache
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.exe
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.pdb
+E:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\bin\Debug\NumerosEnt.exe.config
+E:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.exe
+E:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.pdb
+E:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.csprojResolveAssemblyReference.cache
+E:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.Form1.resources
+E:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.Properties.Resources.resources
+E:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.csproj.GenerateResource.Cache
+E:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\bin\Debug\NumerosEnt.exe
+E:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\bin\Debug\NumerosEnt.pdb
+D:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\bin\Debug\NumerosEnt.exe.config
+D:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.exe
+D:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.pdb
+D:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\bin\Debug\NumerosEnt.exe
+D:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\bin\Debug\NumerosEnt.pdb
+D:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.csprojResolveAssemblyReference.cache
+D:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.Form1.resources
+D:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.Properties.Resources.resources
+D:\Programacion1\Clase NEnteros\NumerosEnt\NumerosEnt\obj\Debug\NumerosEnt.csproj.GenerateResource.Cache

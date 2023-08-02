@@ -1,0 +1,45 @@
+C:\Users\PC\AppData\Local\Temporary Projects\JCE\obj\Debug\JCE.csprojResolveAssemblyReference.cache
+C:\Users\PC\AppData\Local\Temporary Projects\JCE\obj\Debug\JCE.Form1.resources
+C:\Users\PC\AppData\Local\Temporary Projects\JCE\obj\Debug\JCE.Properties.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\JCE\obj\Debug\JCE.csproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\JCE\bin\Debug\JCE.exe.config
+C:\Users\PC\AppData\Local\Temporary Projects\JCE\bin\Debug\JCE.exe
+C:\Users\PC\AppData\Local\Temporary Projects\JCE\bin\Debug\JCE.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\JCE\obj\Debug\JCE.exe
+C:\Users\PC\AppData\Local\Temporary Projects\JCE\obj\Debug\JCE.pdb
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\04 PRACTICOS HECHOS\ARCHIVOS SECUENCIALES\JCE\JCE\obj\Debug\JCE.csprojResolveAssemblyReference.cache
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\04 PRACTICOS HECHOS\ARCHIVOS SECUENCIALES\JCE\JCE\obj\Debug\JCE.Form1.resources
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\04 PRACTICOS HECHOS\ARCHIVOS SECUENCIALES\JCE\JCE\obj\Debug\JCE.Properties.Resources.resources
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\04 PRACTICOS HECHOS\ARCHIVOS SECUENCIALES\JCE\JCE\obj\Debug\JCE.csproj.GenerateResource.Cache
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\04 PRACTICOS HECHOS\ARCHIVOS SECUENCIALES\JCE\JCE\obj\Debug\JCE.exe
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\04 PRACTICOS HECHOS\ARCHIVOS SECUENCIALES\JCE\JCE\obj\Debug\JCE.pdb
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\04 PRACTICOS HECHOS\ARCHIVOS SECUENCIALES\JCE\JCE\bin\Debug\JCE.exe.config
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\04 PRACTICOS HECHOS\ARCHIVOS SECUENCIALES\JCE\JCE\bin\Debug\JCE.exe
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\04 PRACTICOS HECHOS\ARCHIVOS SECUENCIALES\JCE\JCE\bin\Debug\JCE.pdb
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\VENDER\JCE\JCE\bin\Debug\JCE.exe.config
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\VENDER\JCE\JCE\bin\Debug\JCE.exe
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\VENDER\JCE\JCE\bin\Debug\JCE.pdb
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\VENDER\JCE\JCE\obj\Debug\JCE.csprojResolveAssemblyReference.cache
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\VENDER\JCE\JCE\obj\Debug\JCE.Form1.resources
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\VENDER\JCE\JCE\obj\Debug\JCE.Properties.Resources.resources
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\VENDER\JCE\JCE\obj\Debug\JCE.csproj.GenerateResource.Cache
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\VENDER\JCE\JCE\obj\Debug\JCE.exe
+F:\GRABACIONES - MATERIAS VARIAS CUARENTENA\7 SEMESTRE 2 2022\6 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\VENDER\JCE\JCE\obj\Debug\JCE.pdb
+E:\Programacion1\Archivos Proyectito\JCE\JCE\bin\Debug\JCE.exe.config
+E:\Programacion1\Archivos Proyectito\JCE\JCE\obj\Debug\JCE.exe
+E:\Programacion1\Archivos Proyectito\JCE\JCE\obj\Debug\JCE.pdb
+E:\Programacion1\Archivos Proyectito\JCE\JCE\bin\Debug\JCE.exe
+E:\Programacion1\Archivos Proyectito\JCE\JCE\bin\Debug\JCE.pdb
+E:\Programacion1\Archivos Proyectito\JCE\JCE\obj\Debug\JCE.csprojResolveAssemblyReference.cache
+E:\Programacion1\Archivos Proyectito\JCE\JCE\obj\Debug\JCE.Form1.resources
+E:\Programacion1\Archivos Proyectito\JCE\JCE\obj\Debug\JCE.Properties.Resources.resources
+E:\Programacion1\Archivos Proyectito\JCE\JCE\obj\Debug\JCE.csproj.GenerateResource.Cache
+D:\Programacion1\Archivos Proyectito\JCE\JCE\bin\Debug\JCE.exe.config
+D:\Programacion1\Archivos Proyectito\JCE\JCE\obj\Debug\JCE.exe
+D:\Programacion1\Archivos Proyectito\JCE\JCE\obj\Debug\JCE.pdb
+D:\Programacion1\Archivos Proyectito\JCE\JCE\bin\Debug\JCE.exe
+D:\Programacion1\Archivos Proyectito\JCE\JCE\bin\Debug\JCE.pdb
+D:\Programacion1\Archivos Proyectito\JCE\JCE\obj\Debug\JCE.csprojResolveAssemblyReference.cache
+D:\Programacion1\Archivos Proyectito\JCE\JCE\obj\Debug\JCE.Form1.resources
+D:\Programacion1\Archivos Proyectito\JCE\JCE\obj\Debug\JCE.Properties.Resources.resources
+D:\Programacion1\Archivos Proyectito\JCE\JCE\obj\Debug\JCE.csproj.GenerateResource.Cache

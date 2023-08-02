@@ -1,0 +1,10 @@
+unit UCnumber;
+
+interface
+type
+  numeros = class;
+
+
+implementation
+
+end.

@@ -1,0 +1,12 @@
+D:\C#new\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+D:\C#new\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+D:\C#new\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+D:\C#new\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csprojResolveAssemblyReference.cache
+D:\C#new\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Form1.resources
+D:\C#new\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Properties.Resources.resources
+D:\C#new\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.GenerateResource.Cache
+D:\C#new\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+D:\C#new\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
+E:\C#new\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+E:\C#new\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+E:\C#new\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb

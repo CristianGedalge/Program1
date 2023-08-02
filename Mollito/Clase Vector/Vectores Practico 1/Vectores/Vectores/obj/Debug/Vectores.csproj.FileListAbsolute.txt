@@ -1,0 +1,70 @@
+c:\users\estudiante\documents\visual studio 2015\Projects\Vectores\Vectores\bin\Debug\Vectores.exe.config
+c:\users\estudiante\documents\visual studio 2015\Projects\Vectores\Vectores\obj\Debug\Vectores.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2015\Projects\Vectores\Vectores\obj\Debug\Vectores.Form1.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\Vectores\Vectores\obj\Debug\Vectores.Properties.Resources.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\Vectores\Vectores\obj\Debug\Vectores.csproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2015\Projects\Vectores\Vectores\bin\Debug\Vectores.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\Vectores\Vectores\bin\Debug\Vectores.pdb
+c:\users\estudiante\documents\visual studio 2015\Projects\Vectores\Vectores\obj\Debug\Vectores.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\Vectores\Vectores\obj\Debug\Vectores.pdb
+E:\[]c#\Vectores\Vectores\bin\Debug\Vectores.exe.config
+E:\[]c#\Vectores\Vectores\obj\Debug\Vectores.exe
+E:\[]c#\Vectores\Vectores\obj\Debug\Vectores.pdb
+E:\[]c#\Vectores\Vectores\bin\Debug\Vectores.exe
+E:\[]c#\Vectores\Vectores\bin\Debug\Vectores.pdb
+E:\[]c#\Vectores\Vectores\obj\Debug\Vectores.csprojResolveAssemblyReference.cache
+E:\[]c#\Vectores\Vectores\obj\Debug\Vectores.Form1.resources
+E:\[]c#\Vectores\Vectores\obj\Debug\Vectores.Properties.Resources.resources
+E:\[]c#\Vectores\Vectores\obj\Debug\Vectores.csproj.GenerateResource.Cache
+G:\[]c#\Vectores\Vectores\bin\Debug\Vectores.exe.config
+G:\[]c#\Vectores\Vectores\obj\Debug\Vectores.exe
+G:\[]c#\Vectores\Vectores\obj\Debug\Vectores.pdb
+G:\[]c#\Vectores\Vectores\bin\Debug\Vectores.exe
+G:\[]c#\Vectores\Vectores\bin\Debug\Vectores.pdb
+G:\[]c#\Vectores\Vectores\obj\Debug\Vectores.csprojResolveAssemblyReference.cache
+G:\[]c#\Vectores\Vectores\obj\Debug\Vectores.Form1.resources
+G:\[]c#\Vectores\Vectores\obj\Debug\Vectores.Properties.Resources.resources
+G:\[]c#\Vectores\Vectores\obj\Debug\Vectores.csproj.GenerateResource.Cache
+K:\[]c#\Vectores\Vectores\bin\Debug\Vectores.exe.config
+K:\[]c#\Vectores\Vectores\obj\Debug\Vectores.exe
+K:\[]c#\Vectores\Vectores\obj\Debug\Vectores.pdb
+K:\[]c#\Vectores\Vectores\bin\Debug\Vectores.exe
+K:\[]c#\Vectores\Vectores\bin\Debug\Vectores.pdb
+K:\[]c#\Vectores\Vectores\obj\Debug\Vectores.csprojResolveAssemblyReference.cache
+K:\[]c#\Vectores\Vectores\obj\Debug\Vectores.Form1.resources
+K:\[]c#\Vectores\Vectores\obj\Debug\Vectores.Properties.Resources.resources
+K:\[]c#\Vectores\Vectores\obj\Debug\Vectores.csproj.GenerateResource.Cache
+F:\[]c#\Vectores\Vectores\bin\Debug\Vectores.exe.config
+F:\[]c#\Vectores\Vectores\obj\Debug\Vectores.exe
+F:\[]c#\Vectores\Vectores\obj\Debug\Vectores.pdb
+F:\[]c#\Vectores\Vectores\bin\Debug\Vectores.exe
+F:\[]c#\Vectores\Vectores\bin\Debug\Vectores.pdb
+F:\[]c#\Vectores\Vectores\bin\Debug\mscorlib.dll
+F:\[]c#\Vectores\Vectores\bin\Debug\System.Net.Http.dll
+F:\[]c#\Vectores\Vectores\bin\Debug\System.Net.Http.xml
+F:\[]c#\Vectores\Vectores\bin\Debug\es\mscorlib.resources.dll
+F:\[]c#\Vectores\Vectores\bin\Debug\es\System.Net.Http.resources.dll
+F:\[]c#\Vectores\Vectores\bin\Debug\normidna.nlp
+F:\[]c#\Vectores\Vectores\bin\Debug\normnfc.nlp
+F:\[]c#\Vectores\Vectores\bin\Debug\normnfd.nlp
+F:\[]c#\Vectores\Vectores\bin\Debug\normnfkc.nlp
+F:\[]c#\Vectores\Vectores\bin\Debug\normnfkd.nlp
+F:\[]c#\Vectores\Vectores\obj\Debug\Vectores.csprojResolveAssemblyReference.cache
+F:\[]c#\Vectores\Vectores\obj\Debug\Vectores.Form1.resources
+F:\[]c#\Vectores\Vectores\obj\Debug\Vectores.Properties.Resources.resources
+F:\[]c#\Vectores\Vectores\obj\Debug\Vectores.csproj.GenerateResource.Cache
+E:\INF120 sb\[]c#\Vectores\Vectores\bin\Debug\Vectores.exe.config
+E:\INF120 sb\[]c#\Vectores\Vectores\obj\Debug\Vectores.exe
+E:\INF120 sb\[]c#\Vectores\Vectores\obj\Debug\Vectores.pdb
+E:\INF120 sb\[]c#\Vectores\Vectores\obj\Debug\Vectores.csprojResolveAssemblyReference.cache
+E:\INF120 sb\[]c#\Vectores\Vectores\obj\Debug\Vectores.Form1.resources
+E:\INF120 sb\[]c#\Vectores\Vectores\obj\Debug\Vectores.Properties.Resources.resources
+E:\INF120 sb\[]c#\Vectores\Vectores\obj\Debug\Vectores.csproj.GenerateResource.Cache
+E:\INF120 sb\[]c#\Vectores\Vectores\bin\Debug\Vectores.exe
+E:\INF120 sb\[]c#\Vectores\Vectores\bin\Debug\Vectores.pdb
+C:\Users\Usuario\OneDrive\Documentos\INF120 sb\INF120 sb\[]c#\Vectores\Vectores\bin\Debug\Vectores.exe.config
+C:\Users\Usuario\OneDrive\Documentos\INF120 sb\INF120 sb\[]c#\Vectores\Vectores\obj\Debug\Vectores.exe
+C:\Users\Usuario\OneDrive\Documentos\INF120 sb\INF120 sb\[]c#\Vectores\Vectores\obj\Debug\Vectores.pdb
+E:\Programacion1\Clase Vector\Vectores Practico 1\Vectores\Vectores\bin\Debug\Vectores.exe.config
+E:\Programacion1\Clase Vector\Vectores Practico 1\Vectores\Vectores\obj\Debug\Vectores.exe
+E:\Programacion1\Clase Vector\Vectores Practico 1\Vectores\Vectores\obj\Debug\Vectores.pdb

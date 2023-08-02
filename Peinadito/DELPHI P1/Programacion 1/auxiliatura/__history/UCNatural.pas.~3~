@@ -1,0 +1,20 @@
+unit UCNatural;
+
+interface
+
+type
+    NATURAL = class   //clase
+      private
+          valor:cardinal;    //atributo
+
+      public
+          procedure Setvalor(va:cardinal);
+          function Getvalor:cardinal;
+          function EsCapicua:boolean;
+
+                                       //metodos
+end;
+
+implementation
+
+end.

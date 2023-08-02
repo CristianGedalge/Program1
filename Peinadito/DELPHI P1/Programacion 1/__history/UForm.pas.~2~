@@ -1,0 +1,50 @@
+unit UForm;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, Vcl.StdCtrls,UCpractica;
+
+type
+  TFormPrincipal = class(TForm)
+    Edit1: TEdit;
+    Label1: TLabel;
+    MainMenu1: TMainMenu;
+    metodos1: TMenuItem;
+    CambiarValor1: TMenuItem;
+    ObtenerValor1: TMenuItem;
+    procedure fromulariocreate(Sender: TObject);
+    procedure CambiarValor1Click(Sender: TObject);
+    procedure ObtenerValor1Click(Sender: TObject);
+  private
+    { Private declarations }
+    nu:numeros;
+  public
+    { Public declarations }
+  end;
+
+var
+  FormPrincipal: TFormPrincipal;
+
+implementation
+
+{$R *.dfm}
+
+procedure TFormPrincipal.CambiarValor1Click(Sender: TObject);
+begin
+nu.CambiarValor(StrToInt(Edit1.text));
+
+end;
+
+procedure TFormPrincipal.fromulariocreate(Sender: TObject);
+begin
+nu:=numeros.create;
+end;
+
+procedure TFormPrincipal.ObtenerValor1Click(Sender: TObject);
+begin
+Label1.caption:= IntToStr(nu.obtenerValor);
+end;
+
+end.

@@ -1,0 +1,79 @@
+unit UFPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs,UCNumero, Vcl.Menus, Vcl.StdCtrls;
+
+type
+  TfrmPrincipal = class(TForm)
+    MainMenu1: TMainMenu;
+    Metodos1: TMenuItem;
+    CambiarValor1: TMenuItem;
+    ObtenerValor1: TMenuItem;
+    SumarDigitos1: TMenuItem;
+    Edit1: TEdit;
+    Label1: TLabel;
+    ConvToBin1: TMenuItem;
+    ConvToHex1: TMenuItem;
+    ConvToOct1: TMenuItem;
+    procedure FormCreate(Sender: TObject);
+    procedure CambiarValor1Click(Sender: TObject);
+    procedure ObtenerValor1Click(Sender: TObject);
+    procedure SumarDigitos1Click(Sender: TObject);
+    procedure ConvToBin1Click(Sender: TObject);
+    procedure ConvToHex1Click(Sender: TObject);
+    procedure ConvToOct1Click(Sender: TObject);
+
+  private
+    { Private declarations }
+    n : NumeroNatural;
+  public
+    { Public declarations }
+  end;
+
+var
+  frmPrincipal: TfrmPrincipal;
+
+implementation
+
+{$R *.dfm}
+procedure TfrmPrincipal.ConvToBin1Click(Sender: TObject);
+begin
+label1.caption:= N.toBin;
+end;
+
+procedure TfrmPrincipal.ConvToHex1Click(Sender: TObject);
+begin
+label1.caption:= N.toHexa;
+end;
+
+procedure TfrmPrincipal.ConvToOct1Click(Sender: TObject);
+begin
+label1.caption:=N.toOctal;
+end;
+
+procedure TfrmPrincipal.FormCreate(Sender: TObject);
+begin
+    N:=NumeroNatural.create;
+
+
+end;
+procedure TfrmPrincipal.CambiarValor1Click(Sender: TObject);
+begin
+       N.setValor(strtoint(edit1.text));
+end;
+
+
+procedure TfrmPrincipal.ObtenerValor1Click(Sender: TObject);
+begin
+    label1.caption:=inttostr(N.getValor);
+end;
+
+procedure TfrmPrincipal.SumarDigitos1Click(Sender: TObject);
+begin
+    label1.caption:='La suma es:'+ inttostr(N.sumDigitos);
+end;
+
+end.

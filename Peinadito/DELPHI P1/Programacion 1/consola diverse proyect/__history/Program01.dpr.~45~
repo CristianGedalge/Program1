@@ -1,0 +1,14 @@
+Program p01;
+uses sysutils,math;
+var c:string;
+     i:integer;
+     x:real;
+begin
+x:=21.45;
+writeln(15);
+c:='23,15';
+i:=trunc(StrTofloat(c));
+writeln(i);
+readln
+end.
+

@@ -1,0 +1,9 @@
+E:\Programacion1\Archivos Proyectito\Proyecto_Arch_Rdmc\Proy_Arch_Rdmc\Proy_Arch_Rdmc\bin\Debug\Proy_Arch_Rdmc.exe.config
+E:\Programacion1\Archivos Proyectito\Proyecto_Arch_Rdmc\Proy_Arch_Rdmc\Proy_Arch_Rdmc\bin\Debug\Proy_Arch_Rdmc.exe
+E:\Programacion1\Archivos Proyectito\Proyecto_Arch_Rdmc\Proy_Arch_Rdmc\Proy_Arch_Rdmc\bin\Debug\Proy_Arch_Rdmc.pdb
+E:\Programacion1\Archivos Proyectito\Proyecto_Arch_Rdmc\Proy_Arch_Rdmc\Proy_Arch_Rdmc\obj\Debug\Proy_Arch_Rdmc.csprojResolveAssemblyReference.cache
+E:\Programacion1\Archivos Proyectito\Proyecto_Arch_Rdmc\Proy_Arch_Rdmc\Proy_Arch_Rdmc\obj\Debug\Proy_Arch_Rdmc.Form1.resources
+E:\Programacion1\Archivos Proyectito\Proyecto_Arch_Rdmc\Proy_Arch_Rdmc\Proy_Arch_Rdmc\obj\Debug\Proy_Arch_Rdmc.Properties.Resources.resources
+E:\Programacion1\Archivos Proyectito\Proyecto_Arch_Rdmc\Proy_Arch_Rdmc\Proy_Arch_Rdmc\obj\Debug\Proy_Arch_Rdmc.csproj.GenerateResource.Cache
+E:\Programacion1\Archivos Proyectito\Proyecto_Arch_Rdmc\Proy_Arch_Rdmc\Proy_Arch_Rdmc\obj\Debug\Proy_Arch_Rdmc.exe
+E:\Programacion1\Archivos Proyectito\Proyecto_Arch_Rdmc\Proy_Arch_Rdmc\Proy_Arch_Rdmc\obj\Debug\Proy_Arch_Rdmc.pdb

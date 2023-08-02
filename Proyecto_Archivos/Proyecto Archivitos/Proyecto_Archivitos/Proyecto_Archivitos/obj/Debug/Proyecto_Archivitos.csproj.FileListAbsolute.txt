@@ -1,0 +1,17 @@
+E:\Proyecto_Archivos\Proyecto_Archivitos\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.exe.config
+E:\Proyecto_Archivos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.csprojResolveAssemblyReference.cache
+E:\Proyecto_Archivos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.Form1.resources
+E:\Proyecto_Archivos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.Properties.Resources.resources
+E:\Proyecto_Archivos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.csproj.GenerateResource.Cache
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.exe.config
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.exe
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.pdb
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.csprojResolveAssemblyReference.cache
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.Form1.resources
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.Properties.Resources.resources
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.csproj.GenerateResource.Cache
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.exe
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.pdb
+D:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.exe.config
+D:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.exe
+D:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.pdb

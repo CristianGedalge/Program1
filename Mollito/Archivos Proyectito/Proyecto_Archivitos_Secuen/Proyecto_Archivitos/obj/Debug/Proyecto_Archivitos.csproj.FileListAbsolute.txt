@@ -1,0 +1,26 @@
+E:\Proyecto_Archivos\Proyecto_Archivitos\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.exe.config
+E:\Proyecto_Archivos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.csprojResolveAssemblyReference.cache
+E:\Proyecto_Archivos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.Form1.resources
+E:\Proyecto_Archivos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.Properties.Resources.resources
+E:\Proyecto_Archivos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.csproj.GenerateResource.Cache
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.exe.config
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.exe
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.pdb
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.csprojResolveAssemblyReference.cache
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.Form1.resources
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.Properties.Resources.resources
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.csproj.GenerateResource.Cache
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.exe
+E:\Proyecto_Archivos\Proyecto Archivitos\Proyecto_Archivitos\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.pdb
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivitos_Secuen\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.exe.config
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivitos_Secuen\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.exe
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivitos_Secuen\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.pdb
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivitos_Secuen\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.csprojResolveAssemblyReference.cache
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivitos_Secuen\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.Form1.resources
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivitos_Secuen\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.Properties.Resources.resources
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivitos_Secuen\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.csproj.GenerateResource.Cache
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivitos_Secuen\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.exe
+E:\Programacion1\Archivos Proyectito\Proyecto_Archivitos_Secuen\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.pdb
+D:\Programacion1\Archivos Proyectito\Proyecto_Archivitos_Secuen\Proyecto_Archivitos\bin\Debug\Proyecto_Archivitos.exe.config
+D:\Programacion1\Archivos Proyectito\Proyecto_Archivitos_Secuen\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.exe
+D:\Programacion1\Archivos Proyectito\Proyecto_Archivitos_Secuen\Proyecto_Archivitos\obj\Debug\Proyecto_Archivitos.pdb

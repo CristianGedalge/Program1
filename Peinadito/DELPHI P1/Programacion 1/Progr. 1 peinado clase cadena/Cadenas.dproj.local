@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/02 17:45:25.000.912,=C:\Users\Aorus X3 V7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/08 23:04:19.000.938,=C:\Users\Aorus X3 V7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/10 17:57:29.000.447,=C:\Users\Aorus X3 V7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/12 17:47:38.000.310,=C:\Users\Aorus X3 V7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/01 17:35:09.000.851,=C:\Users\Aorus X3 V7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/06 17:02:11.000.896,=C:\Users\Aorus X3 V7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/06 17:02:21.000.252,=C:\Users\Aorus X3 V7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/06 17:03:15.000.652,C:\miguel\Cadena\UCCadena.pas=C:\Users\Aorus X3 V7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/06 17:03:16.000.807,C:\miguel\Cadena\Unit1.pas=C:\Users\Aorus X3 V7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/06 17:03:16.000.807,C:\miguel\Cadena\Unit1.dfm=C:\Users\Aorus X3 V7\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/06 17:03:31.000.658,C:\miguel\Cadena\Cadenas.dproj=C:\Users\Aorus X3 V7\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/06 17:03:50.000.972,C:\miguel\Cadena\UFPrincipal.pas=C:\miguel\Cadena\Unit1.pas</Transaction>
+    <Transaction>2022/05/06 17:03:50.000.972,C:\miguel\Cadena\UFPrincipal.dfm=C:\miguel\Cadena\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

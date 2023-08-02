@@ -1,0 +1,52 @@
+D:\Harold\Matrices\Matrices\bin\Debug\Matrices.exe.config
+D:\Harold\Matrices\Matrices\bin\Debug\Matrices.exe
+D:\Harold\Matrices\Matrices\bin\Debug\Matrices.pdb
+D:\Harold\Matrices\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+D:\Harold\Matrices\Matrices\obj\Debug\Matrices.Form1.resources
+D:\Harold\Matrices\Matrices\obj\Debug\Matrices.Properties.Resources.resources
+D:\Harold\Matrices\Matrices\obj\Debug\Matrices.csproj.GenerateResource.Cache
+D:\Harold\Matrices\Matrices\obj\Debug\Matrices.exe
+D:\Harold\Matrices\Matrices\obj\Debug\Matrices.pdb
+L:\Matrices\Matrices\bin\Debug\Matrices.exe.config
+L:\Matrices\Matrices\obj\Debug\Matrices.exe
+L:\Matrices\Matrices\obj\Debug\Matrices.pdb
+L:\Matrices\Matrices\bin\Debug\Matrices.exe
+L:\Matrices\Matrices\bin\Debug\Matrices.pdb
+L:\Matrices\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+L:\Matrices\Matrices\obj\Debug\Matrices.Form1.resources
+L:\Matrices\Matrices\obj\Debug\Matrices.Properties.Resources.resources
+L:\Matrices\Matrices\obj\Debug\Matrices.csproj.GenerateResource.Cache
+E:\Matrices\Matrices\bin\Debug\Matrices.exe.config
+E:\Matrices\Matrices\obj\Debug\Matrices.exe
+E:\Matrices\Matrices\obj\Debug\Matrices.pdb
+C:\Users\Estudiante\Documents\Matrices\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\Estudiante\Documents\Matrices\Matrices\obj\Debug\Matrices.exe
+C:\Users\Estudiante\Documents\Matrices\Matrices\obj\Debug\Matrices.pdb
+C:\Users\Estudiante\Documents\Matrices\Matrices\bin\Debug\Matrices.exe
+C:\Users\Estudiante\Documents\Matrices\Matrices\bin\Debug\Matrices.pdb
+C:\Users\Estudiante\Documents\Matrices\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\Matrices\Matrices\obj\Debug\Matrices.Form1.resources
+C:\Users\Estudiante\Documents\Matrices\Matrices\obj\Debug\Matrices.Properties.Resources.resources
+C:\Users\Estudiante\Documents\Matrices\Matrices\obj\Debug\Matrices.csproj.GenerateResource.Cache
+E:\Matrices\Matrices\bin\Debug\Matrices.exe
+E:\Matrices\Matrices\bin\Debug\Matrices.pdb
+E:\Matrices\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+E:\Matrices\Matrices\obj\Debug\Matrices.Form1.resources
+E:\Matrices\Matrices\obj\Debug\Matrices.Properties.Resources.resources
+E:\Matrices\Matrices\obj\Debug\Matrices.csproj.GenerateResource.Cache
+G:\Programacion1\Clase Matriz\Matrices\Matrices\bin\Debug\Matrices.exe.config
+G:\Programacion1\Clase Matriz\Matrices\Matrices\obj\Debug\Matrices.exe
+G:\Programacion1\Clase Matriz\Matrices\Matrices\obj\Debug\Matrices.pdb
+G:\Programacion1\Clase Matriz\Matrices\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+G:\Programacion1\Clase Matriz\Matrices\Matrices\obj\Debug\Matrices.Form1.resources
+G:\Programacion1\Clase Matriz\Matrices\Matrices\obj\Debug\Matrices.Properties.Resources.resources
+G:\Programacion1\Clase Matriz\Matrices\Matrices\obj\Debug\Matrices.csproj.GenerateResource.Cache
+E:\Programacion1\Clase Matriz\Matrices\Matrices\bin\Debug\Matrices.exe.config
+E:\Programacion1\Clase Matriz\Matrices\Matrices\obj\Debug\Matrices.exe
+E:\Programacion1\Clase Matriz\Matrices\Matrices\obj\Debug\Matrices.pdb
+E:\Programacion1\Clase Matriz\Matrices\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+E:\Programacion1\Clase Matriz\Matrices\Matrices\obj\Debug\Matrices.Form1.resources
+E:\Programacion1\Clase Matriz\Matrices\Matrices\obj\Debug\Matrices.Properties.Resources.resources
+E:\Programacion1\Clase Matriz\Matrices\Matrices\obj\Debug\Matrices.csproj.GenerateResource.Cache
+E:\Programacion1\Clase Matriz\Matrices\Matrices\bin\Debug\Matrices.exe
+E:\Programacion1\Clase Matriz\Matrices\Matrices\bin\Debug\Matrices.pdb

@@ -1,0 +1,63 @@
+unit UFPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Menus,UCnumber;
+
+type
+  TForm1 = class(TForm)
+    MainMenu1: TMainMenu;
+    Metodos1: TMenuItem;
+    cambiarValor1: TMenuItem;
+    ObtenerValor1: TMenuItem;
+    SumadeDig1: TMenuItem;
+    Edit1: TEdit;
+    Label1: TLabel;
+    EliminarDig1: TMenuItem;
+    procedure FormCreate(Sender: TObject);
+    procedure cambiarValor1Click(Sender: TObject);
+    procedure ObtenerValor1Click(Sender: TObject);
+    procedure SumadeDig1Click(Sender: TObject);
+    procedure EliminarDig1Click(Sender: TObject);
+  private
+    { Private declarations }
+    new:numeros;
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.cambiarValor1Click(Sender: TObject);
+begin
+  new.cambiarvalor(StrToInt(edit1.text));
+end;
+
+procedure TForm1.EliminarDig1Click(Sender: TObject);
+begin
+Label1.caption:=IntToStr(new.EliminarDigitos);
+end;
+
+procedure TForm1.FormCreate(Sender: TObject);
+begin
+  new:=numeros.create;
+end;
+
+procedure TForm1.ObtenerValor1Click(Sender: TObject);
+begin
+  label1.caption:=IntToStr(new.obtenerValor);
+end;
+
+procedure TForm1.SumadeDig1Click(Sender: TObject);
+begin
+  label1.caption:=IntTostr(new.sumaDigitos);
+end;
+
+end.

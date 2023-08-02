@@ -1,0 +1,30 @@
+D:\Programacion1 2022-2\CoopPollito\ProyectoCoop\ProyectoCoop\bin\Debug\ProyectoCoop.exe.config
+D:\Programacion1 2022-2\CoopPollito\ProyectoCoop\ProyectoCoop\bin\Debug\ProyectoCoop.exe
+D:\Programacion1 2022-2\CoopPollito\ProyectoCoop\ProyectoCoop\bin\Debug\ProyectoCoop.pdb
+D:\Programacion1 2022-2\CoopPollito\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.csprojResolveAssemblyReference.cache
+D:\Programacion1 2022-2\CoopPollito\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.Form1.resources
+D:\Programacion1 2022-2\CoopPollito\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.Properties.Resources.resources
+D:\Programacion1 2022-2\CoopPollito\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.csproj.GenerateResource.Cache
+D:\Programacion1 2022-2\CoopPollito\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.exe
+D:\Programacion1 2022-2\CoopPollito\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.pdb
+C:\Users\PC\Desktop\001 PROY ARCH COMPL ENTRAGAR 2 2022\LISTO-SB-POLLO\12) 77074673\ProyectoCoop\ProyectoCoop\bin\Debug\ProyectoCoop.exe.config
+C:\Users\PC\Desktop\001 PROY ARCH COMPL ENTRAGAR 2 2022\LISTO-SB-POLLO\12) 77074673\ProyectoCoop\ProyectoCoop\bin\Debug\ProyectoCoop.exe
+C:\Users\PC\Desktop\001 PROY ARCH COMPL ENTRAGAR 2 2022\LISTO-SB-POLLO\12) 77074673\ProyectoCoop\ProyectoCoop\bin\Debug\ProyectoCoop.pdb
+C:\Users\PC\Desktop\001 PROY ARCH COMPL ENTRAGAR 2 2022\LISTO-SB-POLLO\12) 77074673\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\001 PROY ARCH COMPL ENTRAGAR 2 2022\LISTO-SB-POLLO\12) 77074673\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.Form1.resources
+C:\Users\PC\Desktop\001 PROY ARCH COMPL ENTRAGAR 2 2022\LISTO-SB-POLLO\12) 77074673\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.Properties.Resources.resources
+C:\Users\PC\Desktop\001 PROY ARCH COMPL ENTRAGAR 2 2022\LISTO-SB-POLLO\12) 77074673\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\001 PROY ARCH COMPL ENTRAGAR 2 2022\LISTO-SB-POLLO\12) 77074673\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.exe
+C:\Users\PC\Desktop\001 PROY ARCH COMPL ENTRAGAR 2 2022\LISTO-SB-POLLO\12) 77074673\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.pdb
+E:\Programacion1\ProyectoCoop\ProyectoCoop\bin\Debug\ProyectoCoop.exe.config
+E:\Programacion1\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.exe
+E:\Programacion1\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.pdb
+E:\Programacion1\ProyectoCoop\ProyectoCoop\bin\Debug\ProyectoCoop.exe
+E:\Programacion1\ProyectoCoop\ProyectoCoop\bin\Debug\ProyectoCoop.pdb
+E:\Programacion1\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.csprojResolveAssemblyReference.cache
+E:\Programacion1\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.Form1.resources
+E:\Programacion1\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.Properties.Resources.resources
+E:\Programacion1\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.csproj.GenerateResource.Cache
+D:\Programacion1\ProyectoCoop\ProyectoCoop\bin\Debug\ProyectoCoop.exe.config
+D:\Programacion1\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.exe
+D:\Programacion1\ProyectoCoop\ProyectoCoop\obj\Debug\ProyectoCoop.pdb
